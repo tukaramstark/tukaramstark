@@ -58,11 +58,11 @@ Sharing knowledge.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tukaramstark&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tukaramstark&theme=tokyonight" />
 </p>
 
 ---
@@ -84,9 +84,9 @@ Sharing knowledge.
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: Your LinkedIn
-* 🌐 Portfolio: Your Website
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 💼 LinkedIn:
+* 🌐 Portfolio: 
+
 
 ---
 
